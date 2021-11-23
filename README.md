@@ -1,1 +1,1 @@
-# yed-lang-js
+# yed-lang-javascript
